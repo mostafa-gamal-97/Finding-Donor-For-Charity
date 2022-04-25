@@ -40,4 +40,4 @@ My task was to evaluate and optimize several different supervised learners to de
 
 This project was part of Udacity's Machine Learning Nanodegree.
 
-census.csv and visuals.py were included with project files.
+census.csv and visuals.py files were included with project files.
